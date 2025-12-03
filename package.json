@@ -1,0 +1,7 @@
+{
+  "name": "adventofcode",
+  "dependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.21.0"
+  }
+}
